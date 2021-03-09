@@ -1,0 +1,19 @@
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe.config
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.pdb
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csprojAssemblyReference.cache
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.TexasHoldem.resources
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.Properties.Resources.resources
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csproj.GenerateResource.cache
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.exe
+C:\Users\amarcellus\source\repos\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.pdb
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe.config
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.exe
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\bin\Debug\TexasHoldEm.pdb
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csprojAssemblyReference.cache
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.TexasHoldem.resources
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.Properties.Resources.resources
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csproj.GenerateResource.cache
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.csproj.CoreCompileInputs.cache
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.exe
+C:\Users\Adria\Downloads\OLD PROJECTS\TexasHoldEm\TexasHoldEm\obj\Debug\TexasHoldEm.pdb
